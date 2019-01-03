@@ -1,7 +1,7 @@
 # Skype Interviews DDoS
 
 # Description:
-    This is a simple Proof-of-Concept about how you can DDoS someone by using this "compiler".
+    This is a simple Proof-of-Concept about how you can DDoS someone by using Skype Interview's "compiler".
 # Release Date:
     03.01.2019
 # Author:
